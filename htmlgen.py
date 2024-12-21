@@ -98,7 +98,7 @@ def getHtmlContent(image_html):
     {image_html}
     </div>
     <footer>
-      <p>Made with [love] by <a href="https://github.com/ctrl-alt-defeat-icpc" target="_blank">ctrl+alt+DEFEAT team</a></p>
+      <p>Made with [love] by <a href="https://ctrl-alt-defeat-icpc.github.io/" target="_blank">ctrl+alt+DEFEAT team</a></p>
     </footer>
   </div>
 </body>
